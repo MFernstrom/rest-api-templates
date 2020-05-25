@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="50"/>
+        <CursorPos X="38" Y="62"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\.gitignore.txt"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="8"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\.gitignore"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="8" Y="4"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="18" HistoryIndex="17">
+      <Position1>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="9" Column="74"/>
+      </Position1>
+      <Position2>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="21" Column="16"/>
+      </Position2>
+      <Position3>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="23" Column="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="24" Column="29"/>
+      </Position4>
+      <Position5>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="16" TopLine="2"/>
+      </Position5>
+      <Position6>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="34" Column="3" TopLine="2"/>
+      </Position6>
+      <Position7>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="33" Column="14" TopLine="8"/>
+      </Position7>
+      <Position8>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="30" Column="22"/>
+      </Position8>
+      <Position9>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="31" Column="32"/>
+      </Position9>
+      <Position10>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="29" Column="4" TopLine="7"/>
+      </Position10>
+      <Position11>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="30" Column="7"/>
+      </Position11>
+      <Position12>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="43" TopLine="13"/>
+      </Position12>
+      <Position13>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="42" Column="36" TopLine="13"/>
+      </Position13>
+      <Position14>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="19" Column="67"/>
+      </Position14>
+      <Position15>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="37" Column="57" TopLine="4"/>
+      </Position15>
+      <Position16>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="21"/>
+      </Position16>
+      <Position17>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="69" Column="17" TopLine="40"/>
+      </Position17>
+      <Position18>
+        <Filename Value="BasicAuthTemplate.pas"/>
+        <Caret Line="38" Column="25" TopLine="16"/>
+      </Position18>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
