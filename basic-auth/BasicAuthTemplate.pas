@@ -62,6 +62,7 @@ uses
     try
       try
         validateRequest(aRequest);
+        JSON.Add('success', True);
         JSON.Add('time', DateToStr(now));
         httpCode := 200;
       except
